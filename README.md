@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Android Projects**
 
-- 📫 How to reach me **princeiitbombay@gmail.com**
+- 📫 How to reach me **prince.kumar2021a@vitstudent.ac.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
