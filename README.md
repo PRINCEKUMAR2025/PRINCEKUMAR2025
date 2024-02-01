@@ -5,13 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=princekumar2025&label=Profile%20views&color=0e75b6&style=flat" alt="princekumar2025" /> </p>
 
-- 🔭 I’m currently working on **SecureFam**
-
 - 🌱 I’m currently learning **Algorithims,Android Development,DBMS**
 
 - 👯 I’m looking to collaborate on **Android Projects**
 
-- 📫 How to reach me **prince.kumar2021a@vitstudent.ac.in**
+- 📫 How to reach me **kumarprince3132002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
