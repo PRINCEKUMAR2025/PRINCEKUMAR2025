@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Prince Kumar! 👋</h1>
+<h1 align="center">Hi there, I'm Prince! 👋</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47t9bhvg044u883lef7lsefyy3bnr8csfjdj5496w0&ep=v1_gifs_search&rid=giphy.gif&ct=g&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400" alt="coding">
