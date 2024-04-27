@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Prince Kumar! 👋</h1>
 
 <p align="center">
-  <img src="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW/fullscreen&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400" alt="coding">
+  <img src="https://media2.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif?cid=ecf05e47i8s9qleucyq92tkqqoht9wptlvs7xuv3kri2kt72&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400" alt="coding">
 </p>
 
 <p align="center">Building and Sharing Innovative Solutions</p>
