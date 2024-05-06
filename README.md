@@ -43,6 +43,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princekumar2025&layout=compact" alt="Top Languages">
 </p>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=PRINCEKUMAR2025&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=princekumar2025" alt="GitHub Streak">
 </p>
